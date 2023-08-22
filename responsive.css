@@ -1,0 +1,17 @@
+@media (max-width: 800px) {
+  img {
+    display: none;
+  }
+  .sandwich table,
+  .pasta table,
+  .bevrages table {
+    width: 100%;
+    margin: 10px;
+  }
+  .bevrages {
+    color: whitesmoke;
+  }
+  #btn {
+    font-size: 4vw;
+  }
+}
